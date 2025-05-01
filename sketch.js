@@ -25,6 +25,8 @@ function setup() {
 	toolbox.addTool(new LineToTool());
 	toolbox.addTool(new SprayCanTool);
 	toolbox.addTool(new mirrorDrawTool());
+	toolbox.addTool(new BlurTool);
+	toolbox.addTool(new eraserTool());
 	background(255);
 
 }
