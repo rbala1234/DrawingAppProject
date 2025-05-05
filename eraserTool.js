@@ -1,6 +1,6 @@
 function eraserTool() {
 	this.name = "eraserTool";
-	this.icon = "assets/Eraser.jpg"; // Make sure to provide an appropriate icon
+	this.icon = "assets/eraser.jpg"; // Make sure to provide an appropriate icon
 
 	// default eraser size
 	this.eraserSize = 20;
